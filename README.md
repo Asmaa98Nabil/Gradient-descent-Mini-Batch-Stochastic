@@ -1,3 +1,3 @@
-# Gradient-descent-Mini-Batch-Stochastic
-#Momentum - NAG
-#Adagrad-RMSProp-Adam
+# Gradient descent-Mini-Batch-Stochastic
+##Momentum - NAG
+##Adagrad-RMSProp-Adam
